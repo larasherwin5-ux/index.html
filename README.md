@@ -1,5 +1,3 @@
-# Index.html
-Korean Adopt Me Trading Server landing page website
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -298,5 +296,4 @@ function closeDiscover(){
 }
 </script>
 
-</body>
-</html>
+</body>DO
